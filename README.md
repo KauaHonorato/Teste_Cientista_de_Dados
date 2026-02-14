@@ -30,11 +30,11 @@ Realizar análise de transações e geração de indicadores de receita cumprind
 - CSV
 
 ## Processo:
-1-Os dados foram extraídos utilizando um Script em Python, e inseridos em um arquivo CSV;
-2-Os arquivos gerados Foram importados como consultas para o Power BI;
-3-Com as Consultas geradas, os dados foram manipulados para se adequar ao cenário ideal;
-4-As colunas calculadas e Medidas em DAX foram criadas;
-5-E as telas foram geradas com gráficos para compor o dashboard com os requisitos.
+- 1.Os dados foram extraídos utilizando um Script em Python, e inseridos em um arquivo CSV;
+- 2.Os arquivos gerados Foram importados como consultas para o Power BI;
+- 3.Com as Consultas geradas, os dados foram manipulados para se adequar ao cenário ideal;
+- 4.As colunas calculadas e Medidas em DAX foram criadas;
+- 5.E as telas foram geradas com gráficos para compor o dashboard com os requisitos.
 
 ## Modelagem
 Modelo estrela contendo:
